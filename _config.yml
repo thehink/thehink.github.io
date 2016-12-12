@@ -1,0 +1,5 @@
+sass:
+  style: compressed
+  sass_dir: assets/styles
+
+exclude: [Gemfile, Gemfile.lock, LICENSE, README.md]
