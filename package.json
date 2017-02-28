@@ -1,0 +1,19 @@
+{
+  "name": "thehink.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehink/thehink.github.io.git"
+  },
+  "author": "Benjamin Rizk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thehink/thehink.github.io/issues"
+  },
+  "homepage": "https://github.com/thehink/thehink.github.io#readme"
+}
